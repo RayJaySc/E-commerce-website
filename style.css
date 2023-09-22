@@ -100,11 +100,11 @@ h2{
     margin-bottom:32px;
 }
 
-.button{
+button{
     cursor: pointer;
 }
 
-.button:active{
+button:active{
     transform: translateY(1px);
 }
 
